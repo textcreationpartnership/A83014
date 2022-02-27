@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. After advice had with the assembly of divines, for the ordination of ministers pro tempore, according to the directory for ordination, and rules for examination, therein expressed. Die Mercurii, 2 Octob. 1644. Ordered, that this ordinance for ordination, of ministers pro tempore, bee forthwith printed. H. Elsynge Cler. Parl. Dom. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83014</idno>
+            <idno type="STC">Wing E1801</idno>
+            <idno type="STC">Thomason E10_25</idno>
+            <idno type="STC">ESTC R18247</idno>
+            <idno type="EEBO-CITATION">99860372</idno>
+            <idno type="PROQUEST">99860372</idno>
+            <idno type="VID">112492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112492)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E10[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. After advice had with the assembly of divines, for the ordination of ministers pro tempore, according to the directory for ordination, and rules for examination, therein expressed. Die Mercurii, 2 Octob. 1644. Ordered, that this ordinance for ordination, of ministers pro tempore, bee forthwith printed. H. Elsynge Cler. Parl. Dom. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith, and are to bee sold at his shop, at the signe of the Bible in Corne-hill, neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652)</term>
+               <term>Ordination --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:112492:1"/>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii 2 Octob. 1644.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered, that this Ordinance for <hi>Ordina<g ref="char:EOLhyphen"/>tion of Miniſters, pro Tempore,</hi> bee forth<g ref="char:EOLhyphen"/>with Printed, and that it bee ſent to the <hi>Aſ<g ref="char:EOLhyphen"/>ſembly</hi> of <hi>Divines</hi> to take care of the print<g ref="char:EOLhyphen"/>ing thereof; And that no man do print the ſame, but ſuch as ſhall bee thereunto ap<g ref="char:EOLhyphen"/>pointed by the <hi>Aſſembly.</hi>
+               </p>
+               <closer>
+                  <signed>H. Elſynge, Cler. Parl. Dom. Com.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>October 3.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Aſſembly of Divines, That the Scribes of the Aſſembly take care of the Printing of this Ordinance.</p>
+               <div type="section">
+                  <p>Wee do appoint <hi>Ralph Smith</hi> to print this Ordinance,</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Henry Robrough,</item>
+                           <item>Adoniram Byfield.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:112492:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT. After Advice had with the Aſſembly of DIVINES, for the <hi>Ordination</hi> of Mini<g ref="char:EOLhyphen"/>niſters <hi>pro Tempore,</hi> according to the <hi>Directory</hi> for <hi>Ordination,</hi> and Rules for <hi>Exami<g ref="char:EOLhyphen"/>nation,</hi> therein expreſſed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 2 Octob. 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered, that this Ordinance for <hi>Ordination,</hi> of Miniſters <hi>pro Tempore,</hi> bee forthwith Printed.</p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith,</hi> and are to bee ſold at his ſhop, at the ſigne of the Bible in <hi>Corne-bill,</hi> neere the <hi>Royall Exchange.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:112492:2"/>
+            <pb n="1" facs="tcp:112492:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT: FOR THE <hi>Ordination</hi> of Miniſters <hi>pro Tempore.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the word <hi>Presbyter,</hi> that is to ſay, <hi>Elder,</hi> and the word <hi>Biſhop</hi> doe in the Scriptures intend and ſig<g ref="char:EOLhyphen"/>nifie one and the ſame Function, although the Title of <hi>Biſhop</hi> hath beene by corrupt cu<g ref="char:EOLhyphen"/>ſtome
+<pb n="2" facs="tcp:112492:3"/>appropriated to one, and that unto him aſcribed, and by him aſſumed, as in o<g ref="char:EOLhyphen"/>ther things, ſo in the matter of <hi>Ordination,</hi> that was not meet. Which <hi>Ordination</hi> not<g ref="char:EOLhyphen"/>withſtanding being performed by him a <hi>Presbyter</hi> joyned with other <hi>Presbyters,</hi> we hold for ſubſtance to bee valid, and not to bee diſclaimed by any that have received it. And that <hi>Presbyters</hi> ſo ordained being lawfully thereunto appointed and authori<g ref="char:EOLhyphen"/>zed, may ordaine other <hi>Presbyters.</hi> And whereas it is alſo manifeſt by the word of God, <hi>That no man ought to take upon him the Office of a Miniſter untill hee bee lawful<g ref="char:EOLhyphen"/>ly called and ordained thereunto;</hi> And that the worke of <hi>Ordination,</hi> that is to ſay, <hi>An outward Solemne ſetting apart of Per<g ref="char:EOLhyphen"/>ſons for the Office of the Miniſtery in the Church by Preaching Presbyters, is an Ordi<g ref="char:EOLhyphen"/>nance of Christ,</hi> and is to bee performed with all due <hi>Care, Wiſdome, Gravity,</hi> and <hi>Solemnity:</hi> It is Ordained by the <hi>Lords</hi> and <hi>Commons</hi> Aſſembled in Parliament, and by the Authority of the ſame (after advice had with the Aſſembly of Divines now con<g ref="char:EOLhyphen"/>vened
+<pb n="3" facs="tcp:112492:3"/>at <hi>Weſtminſter</hi>) that during the pre<g ref="char:EOLhyphen"/>ſent exigencies of the Armies, of the Navy and of many Congregations deſtitute of able and faithfull Miniſters of the Goſpel, and untill a Government of the Church be formed up to the full power and Worke of it, and the whole courſe of Ordination of Miniſters in an ordinary way bee ſet up and ſetled for all the three Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Theſe per<g ref="char:EOLhyphen"/>ſons in the City of <hi>London,</hi> being <hi>Presby<g ref="char:EOLhyphen"/>ters; <g ref="char:V">Ʋ</g>iz.</hi> Doctor <hi>Cornelius Burges,</hi> one of the <hi>Aſſeſſors</hi> of the <hi>Aſſembly,</hi> Dr. <hi>William Gouge,</hi> M<hi rend="sup">r.</hi> 
+               <hi>John Ley,</hi> M<hi rend="sup">r.</hi> 
+               <hi>George Walker,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Edmund Calamy,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Daniel Cawdry,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Stanley Gower,</hi> M<hi rend="sup">r.</hi> 
+               <hi>John Conant,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Hum<g ref="char:EOLhyphen"/>phrey Chambers,</hi> Members of the Aſſembly of <hi>Divines,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Henry Robrough</hi> one of the <hi>Scribes</hi> of the Aſſembly, M<hi rend="sup">r.</hi> 
+               <hi>John Down<g ref="char:EOLhyphen"/>ham,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Charles Off-ſpring,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Richard Lee,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Timothy Dod,</hi> M<hi rend="sup">r.</hi> 
+               <hi>James Cranford,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Thomas Horton,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Thomas Clenden,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Ar<g ref="char:EOLhyphen"/>thur Jackson,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Samuel Clerke,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Emanu<g ref="char:EOLhyphen"/>el Bourne,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Foulke Bellers,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Francis Ro<g ref="char:EOLhyphen"/>berts,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Leonard Cooke,</hi> or any ſeven of
+<pb n="4" facs="tcp:112492:4"/>them being the whole number preſent, or any ſeven or more of them, being the major part of them that ſhall bee preſent, may ex<g ref="char:EOLhyphen"/>amine, approve, and ordaine <hi>Presbyters</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>Directory for Ordination,</hi> and Rules for <hi>Examination</hi> hereafter expreſſed, that is to ſay;</p>
+            <p>
+               <hi>Firſt,</hi> That hee that is to bee Ordained, muſt addreſſe himſelfe to the Miniſters ap<g ref="char:EOLhyphen"/>pointed to ordaine, and bring with him a teſtimoniall of his taking the <hi>Covenant</hi> of the three Kingdomes, of his diligence and proficiency in his Studies, what degrees hee hath taken in the Vniverſity, and what hath been the time of his abode there, and with<g ref="char:EOLhyphen"/>all of his age, which is to bee twenty foure yeeres at the leaſt; but eſpecially of his life and converſation.</p>
+            <p>
+               <hi>Secondly,</hi> the Miniſters appointed to or<g ref="char:EOLhyphen"/>daine ſhall proceed to inquire touching the grace of God in him; and whether hee bee of ſuch holineſſe of life as is requiſite in a Miniſter of the Goſpel, and to examine him touching his Learning and ſufficiency, and touching the evidence of his Calling to the
+<pb n="5" facs="tcp:112492:4"/>holy Miniſtery, and in particular, his faire and direct calling to that place, to which he is deſigned.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_rules">
+                        <head>
+                           <hi>THE</hi> RVLES for EXAMINATION ARE THESE:</head>
+                        <list>
+                           <item>1. THat the party Examined bee dealt with in a Brotherly way, with mildneſſe of ſpirit, and with ſpe<g ref="char:EOLhyphen"/>ciall reſpect to the gravity, modeſty, and quality of every one.</item>
+                           <item>2. Hee ſhall bee examined touching his skill in the Originall Tongues, and that Tryall to bee made by reading the Hebrew and Greek Teſtaments, and rendring ſome portions of them into Latine; And inquiry alſo ſhall bee
+<pb n="6" facs="tcp:112492:5"/>made after his other Learning, and whether hee hath skill in Logick and Philoſophy.</item>
+                           <item>3. What Authours in Divinity hee hath read, and is beſt acquainted with, and tryall ſhall bee made of his knowledge in the chiefe Grounds of Religion, and of his ability to defend the Ortho<g ref="char:EOLhyphen"/>dox Doctrine contained in them a<g ref="char:EOLhyphen"/>gainſt all unſound and erroneous opi<g ref="char:EOLhyphen"/>nions, eſpecially thoſe of the preſent age: Of his skill, In the ſenſe and mea<g ref="char:EOLhyphen"/>ning of ſuch places of Scripture as ſhall bee propoſed unto him, In caſes of Conſcience, and in the Chronologie of Scripture, and of the Eccleſiaſticall Hiſtory.</item>
+                           <item>4. If hee hath not before Preached in
+<pb n="7" facs="tcp:112492:5"/>publique, with approbation of ſuch as are able to judge, hee ſhall, at a com<g ref="char:EOLhyphen"/>petent time aſſigned him, and before the Miniſters appointed to Ordaine, expound ſuch a place of Scripture as ſhall bee given him.</item>
+                           <item>5. Hee ſhall in a competent time alſo frame a Diſcourſe in Latin upon ſuch a common place, or controverſie in Divinity, as ſhall bee aſſigned him, and exhibite to the Miniſters appoin<g ref="char:EOLhyphen"/>ted to ordaine, ſuch Theſes as expreſſe the ſumme thereof, and maintain a Diſpute upon them.</item>
+                           <item>6. Hee ſhall Preach before the People, and the Miniſters appointed to Or<g ref="char:EOLhyphen"/>dain, or ſome of them.</item>
+                           <item>
+                              <pb n="8" facs="tcp:112492:6"/>
+7. The proportion of his gifts, in relation to the place, unto which hee is called, ſhall bee conſidered.</item>
+                           <item>8. Beſides the Tryall of his gifts in preaching hee ſhall undergoe an Exa<g ref="char:EOLhyphen"/>mination in the Premiſes, two ſeveral dayes, or more, if the Miniſters ap<g ref="char:EOLhyphen"/>pointed to Ordaine, ſhall judge it ne<g ref="char:EOLhyphen"/>ceſſary.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Thirdly,</hi> After which hee being approved, is to bee ſent to the Church, or other place where hee is to ſerve, (if it may bee done with ſafety, and conveniency) there to Preach three ſeverall dayes, and to converſe with the people, that they may have tryall of his gifts for their edification, and may have time and leiſure to inquire into, and the better to know his life and converſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Fourthly,</hi> In the laſt of thoſe three dayes
+<pb n="9" facs="tcp:112492:6"/>appointed for the making known of his gifts in Preaching, there ſhall bee ſent by the Miniſters appointed to ordaine (if it may bee done with ſafety and convenien<g ref="char:EOLhyphen"/>cy) a publique Inſtrument in writing, which ſhall publiquely bee read before the people, and after affixed to the Church doore, to ſignifie ſuch a day, any member or members of the ſaid Congregation, or any other per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever, or any of them may put in, with all Chriſtian diſcretion, and meekneſſe, what exceptions they have againſt him; and if upon the day appointed, there bee no juſt exceptions againſt him, the Miniſters appointed to ordaine ſhall proceed to <hi>Ordination.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> In the day appointed for <hi>Ordina<g ref="char:EOLhyphen"/>tion,</hi> which is to be performed in that Church where hee that is to bee ordained is to ſerve, (if it may bee done with ſafety and conve<g ref="char:EOLhyphen"/>nience) a <hi>Solemne Faſt</hi> ſhall bee kept by the Congregation, that they may more earneſt<g ref="char:EOLhyphen"/>ly joine in <hi>Prayer to God for a bleſſing upon the Perſon and Labours of this his Servant,</hi> ſolemnly to bee ſet a part to the Office of
+<pb n="10" facs="tcp:112492:7"/>the <hi>Miniſtery</hi> for their good: The Miniſters appointed to ordaine, or ſeven of them ſhall come to the place, whereof one ſhall Preach to the people concerning the <hi>Office and Duty of the Miniſters of Chriſt, and how the People ought to eſteeme him for the works ſake.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> After the Sermon ended, the Mi<g ref="char:EOLhyphen"/>niſter which hath Preached, ſhall in the face of the Congregation demand of him who is now to bee Ordained concerning his <hi>Faith in Christ Jeſus,</hi> and his <hi>perſwaſion of the Truth of the Reformed Religion,</hi> accor<g ref="char:EOLhyphen"/>ding to the Scriptures, his <hi>ſincere intentions and ends,</hi> in deſiring to enter into this cal<g ref="char:EOLhyphen"/>ling, his reſolution to be diligent in <hi>Prayer, Reading, Meditation, Preaching, Miniſtring the Sacraments,</hi> and doing all <hi>Miniſteriall duties</hi> towards his charge, his <hi>Zeale,</hi> and <hi>Faithful<g ref="char:EOLhyphen"/>neſſe</hi> in maintaining the <hi>Truth of the Goſpel, and unity of the Church</hi> againſt <hi>Error</hi> and <hi>Schiſme,</hi> his <hi>Care</hi> that himſelfe and fami<g ref="char:EOLhyphen"/>ly may bee <hi>unblamable,</hi> and <hi>examples to the Flocke,</hi> and his <hi>Reſolution</hi> to continue in his duty againſt all trouble and perſecution.</p>
+            <p>
+               <pb n="11" facs="tcp:112492:7"/>
+               <hi>Seventhly,</hi> In all which having declared himſelfe, profeſſed his willingneſſe, and pro<g ref="char:EOLhyphen"/>miſed his endeavours by the help of <hi>God;</hi> the Miniſters appointed to ordaine, ſhall <hi>ſo<g ref="char:EOLhyphen"/>lemnly ſet him apart</hi> to the <hi>Office</hi> and work of the <hi>Miniſtery, laying their hands on him,</hi> with a ſhort Prayer or bleſsing to this <hi>effect.</hi>
+            </p>
+            <q>Thankefully acknowledging the great Mercy of God in ſending Jeſus Chriſt for the Redemption of his people, and for his Aſcenſion to the right hand of God the Father, and there powring out his Spirit, and giving gifts to Men, Apoſtles, E<g ref="char:EOLhyphen"/>vangeliſts, Prophets, Paſtours and Teachers, for the gathering and building up of his Church, and for fitting and inclining this man to this great Worke, to beſeech him to fill
+<pb n="12" facs="tcp:112492:8"/>him with his holy Spirit, whom in his name, wee
+<note n="*" place="margin">Here let them impoſe their hands on his head.</note> ſet apart to this holy Service, to fulfill the work of his Miniſtery in all things, that hee may both ſave himſelfe and the peo<g ref="char:EOLhyphen"/>ple committed to his charge.</q>
+            <p>
+               <hi>Eigthly,</hi> This, or the like forme of Prayer, or bleſsing being ended, let the Miniſter who preached, briefly exhort him to con<g ref="char:EOLhyphen"/>ſider the greatneſſe of his Office and Worke, the danger of negligence both to himſelfe and his people, the bleſsing which will accompany his faithfulneſſe in this life, and that to come; and withall let him <hi>Exhort</hi> and <hi>Charge</hi> the people in the name of <hi>God,</hi> willingly to receive and acknowledge him as the <hi>Miniſter</hi> of Chriſt, and to maintaine, incourage, and aſsiſt him in all the parts of his Office. And ſo by prayer commending both him and his Flocke to the grace of <hi>God,</hi> after the ſinging of a Pſalme, let the Aſſembly bee diſmiſſed with a bleſsing.</p>
+            <p n="9">
+               <pb n="13" facs="tcp:112492:8"/>
+9. Let ſuch as are choſen or appointed for the Service of the Army, or Navy, or Colleges, or other Charge, be Ordained as aboveſaid, in ſuch Church, as the Miniſters appointed to Ordaine ſhall thinke fit; and ſuch Alterations made by the Miniſter that Ordaineth, from the Exhortation laſt before preſcribed, as the Cir<g ref="char:EOLhyphen"/>cumſtances of Place and Perſons ſhall require.</p>
+            <p>And be it further Ordained by the ſaid <hi>Lords</hi> and <hi>Commons,</hi> and by the Authoritie aforeſaid, that every Perſon formerly Ordained a <hi>Preſ<g ref="char:EOLhyphen"/>byter,</hi> according to the forme of <hi>Ordination,</hi> which hath been held in the <hi>Church of England,</hi> and is to be removed to another Charge, doe bring to the Miniſters appointed to Ordaine for that County where he is to be placed, a Teſtimoniall of his <hi>Ordination,</hi> and of his Abilities and Con<g ref="char:EOLhyphen"/>verſation, whereupon his fitneſſe for that place whither he is to be removed, ſhall be tryed by his preaching there, and (if it ſhall be judged neceſ<g ref="char:EOLhyphen"/>ſary) by a farther Examination, and ſo, without any new <hi>Ordination,</hi> he ſhall be admitted, if he be a proved as fit for that place: And if any Perſon <hi>Ordained</hi> Miniſter in <hi>Scotland,</hi> or in any other <hi>Re<g ref="char:EOLhyphen"/>formed Church,</hi> be deſigned to a Congregation in
+<pb n="14" facs="tcp:112492:9"/>
+               <hi>England,</hi> he is to bring from that Church, to the Miniſters appointed to Ordaine for that Coun<g ref="char:EOLhyphen"/>tie, where he is to be placed, a ſufficient Teſtimo<g ref="char:EOLhyphen"/>niall of his <hi>Ordination,</hi> of his life and converſa<g ref="char:EOLhyphen"/>tion while he lived with them, and of the Cauſes of his Removall; and to undergoe ſuch a Tryall of his fitneſſe and ſufficiencie, and to have the ſame Courſe held with him in other particulars, as is ſet downe in the foregoing Rule and Provi<g ref="char:EOLhyphen"/>ſion touching the Examination and admiſſion of Perſons formerly <hi>Ordained in England.</hi>
+            </p>
+            <p>And it is further Ordained that <hi>Records</hi> be carefully kept by the Regiſter to be nominated by the Miniſters appointed to Ordaine, of the Names of the Perſons <hi>Ordained,</hi> with their Te<g ref="char:EOLhyphen"/>ſtimoniall, the time and place of their <hi>Ordina<g ref="char:EOLhyphen"/>tion,</hi> and of the Miniſters who did Ordaine them, and of the Charge to which they are ap<g ref="char:EOLhyphen"/>pointed: And that no Money or Gift of what kind ſoever ſhall be received from the Perſon to be Ordained, or from any on his behalfe, for <hi>Ordination</hi> or ought elſe belonging to it, by any of the Miniſters appointed to Ordaine, or any appertaining to any of them, upon what pre<g ref="char:EOLhyphen"/>tence ſoever, Except to the Regiſter for the
+<pb n="15" facs="tcp:112492:9"/>
+               <hi>Entry, Inſtruments</hi> and <hi>Teſtimonials</hi> of his <hi>Ordi<g ref="char:EOLhyphen"/>nation,</hi> which ſhall not exceed the ſumme of Ten Shillings for each Perſon Ordained.</p>
+            <p>And it is yet further <hi>Ordained</hi> by the Authority aforeſaid, that all Perſons who ſhall be Ordained <hi>Presbyters</hi> according to this Directorie, ſhall be for ever reputed and taken to all intents and pur<g ref="char:EOLhyphen"/>poſes for lawfull and ſufficiently authoriſed Mi<g ref="char:EOLhyphen"/>niſters of the Church of <hi>England,</hi> and as Cape<g ref="char:EOLhyphen"/>able of any Miniſteriall imployment in the Church, with the Rights and Profitts belonging thereunto, as any other <hi>Presbyters</hi> whatſoever already <hi>Ordained,</hi> or hereafter to be <hi>Ordained;</hi> And that all <hi>Presbyters</hi> who are hereby appoin<g ref="char:EOLhyphen"/>ted and authoriſed to Ordaine, and ſhall (accor<g ref="char:EOLhyphen"/>ding to this preſent Directory) <hi>Ordaine</hi> any <hi>Preſ<g ref="char:EOLhyphen"/>byters,</hi> are hereby declared to performe an accep<g ref="char:EOLhyphen"/>table Service to this Church and Kingdome, and ſhall have the Protection of both Houſes of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> for their Indemnitie.</p>
+            <p>Provided, That this Ordinance ſhall ſtand in force for twelve Moneths and no longer; Any thing in this Ordinance conteyned to the con<g ref="char:EOLhyphen"/>trary in any wiſe notwithſtanding.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
